@@ -3,6 +3,10 @@
 
 # You can see live application here: 
 https://elastic-noether-756eb3.netlify.app/#/
+
+<img src="https://github.com/Alexandra2888/real-world.vue/blob/master/events.png" alt="events"/>
+
+
 ## Project setup
 ```
 npm install
